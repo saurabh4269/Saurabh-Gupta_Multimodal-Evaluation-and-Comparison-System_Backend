@@ -21,8 +21,8 @@ This project provides a backend system to evaluate and compare multiple language
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR-GITHUB-USERNAME/YOUR-NAME_ASSIGNMENT-NAME_BACKEND.git
-    cd YOUR-NAME_ASSIGNMENT-NAME_BACKEND
+    git clone git@github.com:saurabh4269/multimodal-evaluation-and-comparison-system_backend.git
+    cd multimodal-evaluation-and-comparison-system_backend
     ```
 
 2. Create and activate a virtual environment:
